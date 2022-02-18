@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @seneralkan GIS Developer and Data Scientist
-- 👀 I’m interested in #datascience #machinelearning #gis #webdevelopment
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m @seneralkan Software Developer and Data Scientist (Kaggle Master)
+- 👀 I’m interested in #dataengineering #cloud #distributedsystems #datascience #machinelearning #gis #webdevelopment
 - 📫 You can reach me via https://www.linkedin.com/in/seneralkan/
 
 <!---
