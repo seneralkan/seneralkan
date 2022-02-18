@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seneralkan Software Developer and Data Scientist (Kaggle Master)
+- 👋 Hi, I’m Software Developer and Data Scientist (Kaggle Master)
 - 👀 I’m interested in #dataengineering #cloud #distributedsystems #datascience #machinelearning #gis #webdevelopment
 - 📫 You can reach me via https://www.linkedin.com/in/seneralkan/
 
