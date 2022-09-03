@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Software Developer and Data Scientist (Kaggle Master)
-- 👀 I’m interested in #dataengineering #cloud #distributedsystems #datascience #machinelearning #gis #webdevelopment
+- 👋 Hi, I’m Software Developer and Data Enthusiast (Kaggle Master)
+- 👀 I’m interested in #softwaredevelopment #dataengineering #cloud #distributedsystems #machinelearning #gis
 - 📫 You can reach me via https://www.linkedin.com/in/seneralkan/
 
 <!---
