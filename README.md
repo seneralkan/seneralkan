@@ -1,13 +1,13 @@
-# Şener Alkan
+# 👋 Şener Alkan
 
 Senior Backend Engineer  
 Software Developer & Data Enthusiast (Kaggle Master)
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a Senior Backend Engineer with experience in designing and building scalable, high-throughput distributed systems.
+I am a Senior Backend Engineer experienced in designing and building scalable, high-throughput distributed systems.
 
 My primary focus areas include:
 - Event-driven architecture
@@ -16,39 +16,39 @@ My primary focus areas include:
 - Data-intensive applications
 - Cloud-native infrastructure
 
-I work extensively on building reliable systems that prioritize performance, consistency, and observability.
+I prioritize reliability, performance, and observability when designing production systems.
 
 ---
 
-## Technical Interests
+## 🎯 Technical Interests
 
-- Software Development  
-- Data Engineering  
-- Distributed Systems  
-- Cloud Computing  
-- Machine Learning  
-- GIS (Geographic Information Systems)  
-- Observability & Performance Optimization  
+- 💻 Software Development  
+- 📊 Data Engineering  
+- 🧩 Distributed Systems  
+- ☁️ Cloud Computing  
+- 🤖 Machine Learning  
+- 🗺 GIS (Geographic Information Systems)  
+- 📈 Observability & Performance Optimization  
 
 ---
 
-## Core Technologies
+## 🛠 Core Technologies
 
 **Languages:**  
-Go, TypeScript, JavaScript, Python, Java
+Go • TypeScript • JavaScript • Python  • Java
 
 **Backend & Frameworks:**  
 Node.js (Fastify, NestJS)  
 
 **Databases & Streaming:**  
-MongoDB, PostgreSQL (PostGIS), Kafka  
+MongoDB • PostgreSQL (PostGIS) • Kafka  
 
 **Cloud & Infrastructure:**  
-AWS, Docker, Kubernetes  
+AWS • Docker • Kubernetes  
 
 ---
 
-## Contact
+## 📫 Contact
 
-LinkedIn:  
+🔗 LinkedIn  
 https://www.linkedin.com/in/seneralkan/
